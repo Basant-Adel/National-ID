@@ -1,0 +1,32 @@
+* {
+    font-family: cursive;
+    color: #055160;
+}
+
+.container {
+    margin-top: 5%;
+    padding: 2%;
+}
+
+.input-group,
+#result {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.btn-outline-info {
+    color: #055160;
+    background-color: #ffffff;
+    border-color: #054551;
+}
+
+.btn:hover {
+    color: #fff;
+    background-color: #055160;
+    border-color: #054551;
+}
+
+#result {
+    text-align: left;
+    margin-top: 2%;
+}
